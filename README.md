@@ -5,6 +5,9 @@ Bidirectional visitor counter is a reliable circuit that takes over the task of 
 This circuit divided in three parts: sensor, controller and counter display. The sensor would observe an interruption and provide an input to the controller which would run the counter in up/down mode depending upon the selector setting. The same count is displayed on a liquid crystal display through the controller.
 
 
+For reference check out[^1] and [^2]
+
+
                                             MATERIALS REQUIRED
 
                              1. Arduino Uno Microcontroller, ATMEGA328P-PU
@@ -22,6 +25,6 @@ This circuit divided in three parts: sensor, controller and counter display. The
 > - Arduino pins 12 and 13 are connected to E and RS pins of the LCD respectively
 > - Arduino pin 2 is used as an output pin to a relay circuit (optional).
 
-For reference check out[^1]
 
 [^1]: https://www.youtube.com/watch?v=JbaVYMk1BWU&ab_channel=ABHISHEKKUMAR
+[^2]: https://create.arduino.cc/projecthub/hrsajjad844/bidirectional-visitor-counter-with-automatic-light-control-1fdec9?ref=part&ref_id=8233&offset=16

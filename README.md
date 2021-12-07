@@ -1,5 +1,4 @@
 # Bidirectional Visitor Counter using Arduino UNO (Circuit Made in Proteus 8)
-### College project of making a Wireless Visiter Counter using Arduino circuit made in Proteus 8
 
 Bidirectional visitor counter is a reliable circuit that takes over the task of counting number of Persons/ Visitors in the Room very accurately. When somebody enters into the Room then the Counter is Incremented by one. Similarly, when someone leaves the Room, the counter is decremented.
 
@@ -22,3 +21,6 @@ This circuit divided in three parts: sensor, controller and counter display. The
 > - Arduino pins 14(A0) and 19(A5) acts as input pins and connected to OUT of the two sensors respectively
 > - Arduino pins 12 and 13 are connected to E and RS pins of the LCD respectively
 > - Arduino pin 2 is used as an output pin to a relay circuit (optional).
+
+[^note]:
+ This was my final year college project.

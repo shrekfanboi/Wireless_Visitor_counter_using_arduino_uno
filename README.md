@@ -17,6 +17,6 @@ Bidirectional visitor counter is a reliable circuit that takes over the task of 
 
 This circuit divided in three parts: sensor, controller and counter display. The sensor would observe an interruption and provide an input to the controller which would run the counter in up/down mode depending upon the selector setting. The same count is displayed on a liquid crystal display through the controller.
 
--Arduino pins 14(A0) and 19(A5) acts as input pins and connected to OUT of the two sensors respectively
--Arduino pins 12 and 13 are connected to E and RS pins of the LCD respectively
--Arduino pin 2 is used as an output pin to a relay circuit (optional).
+- Arduino pins 14(A0) and 19(A5) acts as input pins and connected to OUT of the two sensors respectively
+- Arduino pins 12 and 13 are connected to E and RS pins of the LCD respectively
+- Arduino pin 2 is used as an output pin to a relay circuit (optional).

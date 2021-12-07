@@ -3,6 +3,8 @@
 
 Bidirectional visitor counter is a reliable circuit that takes over the task of counting number of Persons/ Visitors in the Room very accurately. When somebody enters into the Room then the Counter is Incremented by one. Similarly, when someone leaves the Room, the counter is decremented.
 
+This circuit divided in three parts: sensor, controller and counter display. The sensor would observe an interruption and provide an input to the controller which would run the counter in up/down mode depending upon the selector setting. The same count is displayed on a liquid crystal display through the controller.
+
 
                                             MATERIALS REQUIRED
 
@@ -15,7 +17,7 @@ Bidirectional visitor counter is a reliable circuit that takes over the task of 
                              7. Solder Less bread board jumper wire kit
                              8. Logic Toggle (only used in this circuit)
 
-This circuit divided in three parts: sensor, controller and counter display. The sensor would observe an interruption and provide an input to the controller which would run the counter in up/down mode depending upon the selector setting. The same count is displayed on a liquid crystal display through the controller.
+
 
 > - Arduino pins 14(A0) and 19(A5) acts as input pins and connected to OUT of the two sensors respectively
 > - Arduino pins 12 and 13 are connected to E and RS pins of the LCD respectively

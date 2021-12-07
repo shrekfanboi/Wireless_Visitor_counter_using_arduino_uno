@@ -22,5 +22,4 @@ This circuit divided in three parts: sensor, controller and counter display. The
 > - Arduino pins 12 and 13 are connected to E and RS pins of the LCD respectively
 > - Arduino pin 2 is used as an output pin to a relay circuit (optional).
 
-[^1]:
- This was my final year college project.
+[^1]: This was my final year college project.

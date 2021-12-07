@@ -20,7 +20,7 @@ This circuit divided in three parts: sensor, controller and counter display. The
     10. Logic Toggle (only used in this circuit)
 
 
-
+### PIN CONFIG
 
 
 > -  Arduino pins 14(A0) and 19(A5) acts as input pins and connected to OUT of the two sensors respectively

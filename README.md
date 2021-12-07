@@ -8,15 +8,16 @@ This circuit divided in three parts: sensor, controller and counter display. The
 
 
                                             MATERIALS REQUIRED
-
-                             1. Arduino Uno Microcontroller, ATMEGA328P-PU
-                             2. IR Obstacle Sensor
-                             3. LCD, LM016L (16x2)
-                             4. RELAY
-                             5. Transistor ,BC547
-                             6. Resistors
-                             7. Solder Less bread board jumper wire kit
-                             8. Logic Toggle (only used in this circuit)
+    1. Arduino Uno Microcontroller, ATMEGA328P-PU
+    2. IR Obstacle Sensor
+    3. LCD, LM016L (16x2)
+    4. RELAY (G2R-14-DC5)
+    5. Transistor ,BC547
+    6. Resistors
+    7. VSIN
+    8. LAMP
+    9. Solder Less bread board jumper wire kit
+    10. Logic Toggle (only used in this circuit)
 
 
 

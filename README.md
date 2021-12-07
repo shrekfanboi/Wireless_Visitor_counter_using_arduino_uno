@@ -17,7 +17,7 @@ This circuit divided in three parts: sensor, controller and counter display. The
     7. VSIN
     8. LAMP
     9. Solder Less bread board jumper wire kit
-    10. Logic Toggle (only used in this circuit)
+    10.Logic Toggle (only used in this circuit)
 
 
 ###### <p align="center">PIN CONFIG</p>

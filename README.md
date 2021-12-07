@@ -7,7 +7,7 @@ This circuit divided in three parts: sensor, controller and counter display. The
 
 
 
-                                           <p align="center">COMPONENTS USED</p>
+                                                  COMPONENTS USED
     1. Arduino Uno Microcontroller, ATMEGA328P-PU
     2. IR Obstacle Sensor
     3. LCD, LM016L (16x2)

@@ -25,7 +25,7 @@ This circuit divided in three parts: sensor, controller and counter display. The
 
 > -  Arduino pins 14(A0) and 19(A5) acts as input pins and connected to OUT of the two sensors respectively
 > -  Arduino pins 12 and 13 are connected to E and RS pins of the LCD respectively
-> - Arduino pins 11-10 are connected to Data bits D4-D7 on LCD respectively.
+> - Arduino pins 11-8 are connected to Data bits D4-D7 on LCD respectively.
 > -  Arduino pin 2 is used as an output pin to a relay circuit (optional).
 
 

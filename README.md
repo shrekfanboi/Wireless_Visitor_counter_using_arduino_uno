@@ -20,9 +20,9 @@ This circuit divided in three parts: sensor, controller and counter display. The
 
 
 
-- [] Arduino pins 14(A0) and 19(A5) acts as input pins and connected to OUT of the two sensors respectively
-- [] Arduino pins 12 and 13 are connected to E and RS pins of the LCD respectively
-- [] Arduino pin 2 is used as an output pin to a relay circuit (optional).
+> -  Arduino pins 14(A0) and 19(A5) acts as input pins and connected to OUT of the two sensors respectively
+> -  Arduino pins 12 and 13 are connected to E and RS pins of the LCD respectively
+> -  Arduino pin 2 is used as an output pin to a relay circuit (optional).
 
 
 For references check out [this](https://www.youtube.com/watch?v=JbaVYMk1BWU&ab_channel=ABHISHEKKUMAR) and [the official page](https://create.arduino.cc/projecthub/hrsajjad844/bidirectional-visitor-counter-with-automatic-light-control-1fdec9?ref=part&ref_id=8233&offset=16)

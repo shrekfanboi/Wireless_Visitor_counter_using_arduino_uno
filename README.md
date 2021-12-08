@@ -30,4 +30,4 @@ This circuit divided in three parts: sensor, controller and counter display. The
 
 
 
-For references check out [this](https://www.youtube.com/watch?v=JbaVYMk1BWU&ab_channel=ABHISHEKKUMAR) and [the official page](https://create.arduino.cc/projecthub/hrsajjad844/bidirectional-visitor-counter-with-automatic-light-control-1fdec9?ref=part&ref_id=8233&offset=16)
+For references check out [this](https://www.youtube.com/watch?v=JbaVYMk1BWU&ab_channel=ABHISHEKKUMAR) and [this page](https://circuitdigest.com/microcontroller-projects/automatic-room-light-controller-with-bidirectional-visitor-counter-using-arduino)
